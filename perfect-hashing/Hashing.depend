@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1537332595 source:c:\users\liqia\desktop\c++ Á·Ï°\hashing\test.cpp
+	"Matrix.h"
+	"hashBucket.h"
+	"HashTable.h"
+	<fstream>
+	<regex>
+	<string>
+
+1536802734 c:\users\liqia\desktop\c++ Á·Ï°\hashing\matrix.h
+	<iostream>
+	<vector>
+	<cmath>
+	<time.h>
+
+1536844710 source:c:\users\liqia\desktop\c++ Á·Ï°\hashing\matrix.cpp
+	"Matrix.h"
+	<iostream>
+
+1536834343 source:c:\users\liqia\desktop\c++ Á·Ï°\hashing\hashbucket.cpp
+	"HashBucket.h"
+	"Matrix.h"
+	<string>
+
+1536832789 c:\users\liqia\desktop\c++ Á·Ï°\hashing\hashbucket.h
+	<iostream>
+	<vector>
+	"Matrix.h"
+
+1537331476 source:c:\users\liqia\desktop\c++ Á·Ï°\hashing\hashtable.cpp
+	"HashTable.h"
+	"HashBucket.h"
+	<cmath>
+	<vector>
+	<iostream>
+
+1538762631 c:\users\liqia\desktop\c++ Á·Ï°\hashing\hashtable.h
+	"HashBucket.h"
+	"Matrix.h"
+	<vector>
+

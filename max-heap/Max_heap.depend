@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1537263709 source:c:\users\liqia\desktop\c++ Á·Ï°\max_heap\test.cpp
+	"Data_node.h"
+	"Max_heap.h"
+	"HT_Linear.h"
+	<fstream>
+	<regex>
+	<string>
+	<vector>
+	<iostream>
+
+1537248007 c:\users\liqia\desktop\c++ Á·Ï°\max_heap\data_node.h
+
+1537263265 source:c:\users\liqia\desktop\c++ Á·Ï°\max_heap\max_heap.cpp
+	"Max_heap.h"
+	"Data_node.h"
+	<iostream>
+
+1537183148 c:\users\liqia\desktop\c++ Á·Ï°\max_heap\max_heap.h
+	<vector>
+	"Data_node.h"
+
+1537263312 source:c:\users\liqia\desktop\c++ Á·Ï°\max_heap\ht_linear.cpp
+	"HT_Linear.h"
+	"Data_node.h"
+	<iostream>
+
+1537247253 c:\users\liqia\desktop\c++ Á·Ï°\max_heap\ht_linear.h
+	"Data_node.h"
+	"Max_heap.h"
+	<iostream>
+
